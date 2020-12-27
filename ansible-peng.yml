@@ -3,4 +3,4 @@
   remote_user: peng
   tasks:
     - name: test date
-      command: date
+      command: ip a
